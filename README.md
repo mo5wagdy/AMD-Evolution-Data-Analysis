@@ -37,11 +37,11 @@ This project leverages data analysis and visualization techniques to provide in-
 ## 💁️ Dataset Overview
 - **Source**: Collected from multiple reliable websites and structured sources: 
 
-- wikipedia :https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A7%D8%AA_%D8%A5%D9%8A%D9%87_%D8%A5%D9%85_%D8%AF%D9%8A
-- AMD Official Website
-- Techpowerup
-- ClaudeAI
-- NanoReviews
+  - wikipedia :https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A7%D8%AA_%D8%A5%D9%8A%D9%87_%D8%A5%D9%85_%D8%AF%D9%8A
+  - AMD Official Website
+  - Techpowerup
+  - ClaudeAI
+  - NanoReviews
 
 - **Volume**: Large dataset spanning financial, operational, and product data.
 - **Primary Attributes**:
@@ -109,7 +109,7 @@ This project leverages data analysis and visualization techniques to provide in-
 ## 👥 Roles & Responsibilities
 | Role | Responsibilities |
 |------|----------------|
-| **Data Engineer** | Manages data extraction, storage, and querying. |
+| **Data Collecting** - Muhammed Awad | Manages data extraction, storage, and querying. |
 | **Data Analyst** | Performs exploratory analysis and statistical evaluations. |
 | **Visualization Specialist** | Designs and develops Seaborn-based visualizations. |
 | **Project Coordinator** | Organizes tasks, ensures timelines, and compiles reports. |
@@ -140,15 +140,15 @@ This project leverages data analysis and visualization techniques to provide in-
 
 ---
 
-## 1
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-## 2
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-## 3
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+## Muhammed Awad
+📧 Email: [mohamedaboyosefofficial@gmail.com]  
+🔗 LinkedIn: [http://www.linkedin.com/in/mohamed-aboyosef-619533357]  
+## Muhammed Wagdy
+📧 Email: [mohamed5wagdy@gmail.com]  
+🔗 LinkedIn: [www.linkedin.com/in/muhammed-fouda]  
+## Raneem Montaser
+📧 Email: [raneemmontaser735@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/raneem-montaser/]  
 ## 4
 📧 Email: [Your Email]  
 🔗 LinkedIn: [Your LinkedIn Profile]  
