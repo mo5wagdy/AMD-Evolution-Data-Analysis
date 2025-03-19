@@ -108,7 +108,7 @@ This project leverages data analysis and visualization techniques to provide in-
 
 ## 👥 Roles & Responsibilities
 | Role | Responsibilities |
-|------|----------------|
+|-------------|----------------|
 | **Data Collecting Expert** - Muhammed Awad | Manages data collecting, extraction, storage, and querying. |
 | **Visualization Specialist** - Raneem Montaser| Designs and develops Seaborn-based visualizations. |
 | **Financial Specialist** - Razan Hesham | Performs financial analysis |
