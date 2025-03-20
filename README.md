@@ -81,10 +81,21 @@ This project leverages data analysis and visualization techniques to provide in-
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
-- **Revenue & Profitability**: Trends in financial performance.
-- **Market Trends**: Stock price movements and competitive positioning.
-- **Product Performance**: Success of product launches over time.
-- **Operational Efficiency**: Manufacturing and R&D expenditure analysis.
+- **Total Revenue – The overall income generated from product sales.**
+- **Total Units Sold – The total number of units sold within a given period.**
+- **Average Selling Price (ASP) – The average price per unit sold, calculated as (Total Revenue / Total Units Sold).**
+- **Monthly Revenue Growth – Percentage change in revenue from month to month.**
+- **Stock Performance – Trends in stock closing prices over time.**
+- **Market Share by Region – Revenue distribution across different geographical areas.**
+- **Sales Conversion Rate – The percentage of potential leads that resulted in actual sales.**
+- **Financial Metrics**
+- **Revenue Trend Analysis – Tracking revenue growth over time.**
+- **Profit Margin – (Revenue - Cost) / Revenue, measuring profitability.**
+- **Customer Acquisition Cost (CAC) – The cost of acquiring a new customer.**
+- **Return on Investment (ROI) – (Revenue - Investment Cost) / Investment Cost.**
+- **Earnings Per Share (EPS) – A key indicator of stock performance.**
+- **Volatility in Stock Price – Measuring stock price fluctuations over time.**
+- **Revenue Contribution by Product Line – Analyzing how different products contribute to overall revenue.**
 
 ---
 
