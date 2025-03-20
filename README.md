@@ -163,7 +163,7 @@ This project leverages data analysis and visualization techniques to provide in-
 🔗 LinkedIn: [https://www.linkedin.com/in/raneem-montaser/]  
 ## Razan Hesham
 📧 Email: [razanhisham112@gmail.com]  
-🔗 LinkedIn: [linkedin.com/in/razan-hesham-700661319]  
+🔗 LinkedIn: [https://linkedin.com/in/razan-hesham-700661319]  
 
 ---
 
